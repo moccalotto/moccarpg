@@ -28,12 +28,13 @@ Newbies use d2s, d3s, or d4s, while experts use d10s and d12s.
 
 .Expertise teirs
 |===
-| Teir | Dice
+| Tier          | Dice
+
 | Untrained     | As the _beginner_ teir, but only use half as many dice.
 
 | Beginner      | d2
 
-| Novice        |   d4
+| Novice        | d4
 
 | Journeyman    | d6
 
