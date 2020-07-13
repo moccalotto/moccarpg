@@ -1,0 +1,123 @@
+Thoughts
+========
+
+1. Be inspired by mmorpgs
+2. Many classes, but simpler classes
+3. Allow and encourage multiclassing
+4. Class trees
+5. Feats
+6. Skills / Abilities
+
+
+
+Levels
+======
+
+Most things you can do have levels; your ancestry, jobs, skills, attributes, and abilities.
+
+
+
+Dice
+====
+
+We do dice like shadowrun 3, except we use all kinds of dice. We do lots of
+exploding dice of all types. Difficult tasks have high target numbers, and easy
+tasks have low target numbers.
+
+Newbies use d2s, d3s, or d4s, while experts use d10s and d12s.
+
+.Expertise teirs
+|===
+| Teir | Dice
+| Untrained     | As the _beginner_ teir, but only use half as many dice.
+
+| Beginner      | d2
+
+| Novice        |   d4
+
+| Journeyman    | d6
+
+| Expert        | d8
+
+| Master        | d10
+
+| Legendary     | d12
+|===
+
+
+Rolls
+=====
+
+When you use a skill, you roll a number of dice equal to the associated
+attribute’s level. The dice used depends on how trained you are in the
+particular skill.
+
+
+Ancestries
+==========
+
+
+Dwarf::
+Elf::
+Gnome::
+Goblin::
+Goliath:: Half-giant-ish. Not exactly like a troll.
+Hybrid:: Select two other ancestry/heritage combinations at 1st level.
+Whenever you gain a level in Half-breed, you can gain a level in that ancestry
+as well. You will have more flexibility, but will be a level behind your
+true-breed peers.
+Halfling::
+Human:: Jack of all trades.
+Lizardfolk::
+Orc::
+Ratfolk::
+Tabaxi:: Catfolk
+Troll:: Earthdawn-like trol.
+
+
+Attributes
+==========
+
+Grant access to certain jobs, skills and feats.
+
+Strength:: Raw Physical Power, melee combat.
+Intelligence:: Deduction, Logic, Memory
+Perception:: Senses
+Charisma:: Leadership, communication
+Dexterity:: Ranged combat, sneak
+Magica:: How many points of mana you have + Magic rolls. 
+Fortitude:: Hit Points + Anti Poison, etc.
+
+
+
+Skills
+======
+
+Skills represent classes of abilities. When you gain a level in a given skill,
+you gain the option of choosing certain abilities.
+
+If you are completely untrained in a skill, you may still use its “untrained”
+abilities. This is done with d4s, and at half the dice. If you have Strength 7,
+and you are untrained in Martial Melee Weapons, you can still use a longsword,
+but you only roll 3d4. 
+
+If you make a conventional attack a shortsword, you roll Strength number of
+dice of the type defined by how trained you are in Simple Melee Weapons.
+
+Unarmed Combat: Martial Arts
+Simple Melee Weapons:: 
+Martial Melee Weapons:: 
+Simple Ranged Weapons:: 
+Martial Ranged Weapons:: 
+Otherworldly Summoning:: Summon demons, fiends, etc.
+Elemental Summoning::
+Necromanic Summoning:: Summon and create dead things.
+Society:: Social knowledge and social abilities.
+
+
+
+Abilities
+=========
+
+Abilities can be like feats, or like magical powers or spells. Some abilities
+are actions that can be taken, and other abilities grant passive boosts
