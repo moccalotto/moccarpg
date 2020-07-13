@@ -69,10 +69,10 @@ true-breed peers.
 Halfling::
 Human:: Jack of all trades.
 Lizardfolk::
-Orc::
-Ratfolk::
-Tabaxi:: Catfolk
-Troll:: Earthdawn-like trol.
+Orc:: Like Earthdawn Orks.
+Ratkin:: Beastkin.Rat
+Tabaxi:: Catkin. Beastkin, Cat
+Wolfkin:: Beastkin.Wolf
 
 
 Attributes
@@ -89,6 +89,38 @@ Magica:: How many points of mana you have + Magic rolls.
 Fortitude:: Hit Points + Anti Poison, etc.
 
 
+Jobs
+====
+grant you access to skills and feats. They rarely do anything on their own. You cannot have more than 2 jobs at a time. You can re-spec, but it takes a lot of downtime. Some feats may allow you extra jobs.
+Gaining levels in jobs may also increase your HP and MP.
+
+Alchemist:: temporary potions, poisons, bombs, mutagens
+Assassin:: Stealth + sneak attack + poison
+Bard:: Jack of all trades + face + buff spells
+Blade Dancer:: Two weapon swift fighter
+Brawler:: Martial Artist
+Cleric:: Heavy plate + utility spells.
+Druid:: Nature magic + Nature Lore + shape shifter.
+Healer:: Extreme healer + insight into health of creatures.
+Elementalist:: elemental magic + summoning
+Illusionist:: charm + illusion + damage (á la Earthdawn)
+Knight:: Leader + tank + face
+Necromancer:: pain, undead
+Paladin:: Leadership + Divinely assisted Melee
+Priest:: Healer + powerful divine spells
+Rager:: Raging tank + heavy damage + intimidation
+Ranger:: Tracker + archer + nature magic + hunter’s mark
+Runecaster:: 
+Scribe:: Scholar + Contract Magic + Appraise/change jobs.
+Shaman:: Powerful nature magic + Animal/Spirit Summoning
+Skald::: Bard, but more magic focussed.
+Spellsword:: Light armor, touch spells via sword(s) [hexblade]
+Thief:: Sneaky + sleight of hand + lock expert + appraise
+Tinker:: artificer, inventor, guns, golems, etc.
+Warlock:: demon summoning + high damage spells
+Warlord:: Extreme leadership + utility pseudo magi
+Warrior:: Damage dealer + tank
+Wizard:: Scholar + theoretic magic + mighty rituals
 
 Skills
 ======
@@ -121,3 +153,12 @@ Abilities
 
 Abilities can be like feats, or like magical powers or spells. Some abilities
 are actions that can be taken, and other abilities grant passive boosts
+
+Abilities can be purchased instead of level increased, and they are unlocked by having
+certain skills or jobs at certain levels.
+
+
+Beginner [Free]:: When you gain level 1 in any skill, you are automatically a beginner at that skill.
+
+
+
