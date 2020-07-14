@@ -138,9 +138,10 @@ dice of the type defined by how trained you are in Simple Melee Weapons.
 When you attain level 1 in any skill, you are automatically a novice at that skill,
 meaning that you use d4s when you make tests.
 
-Unarmed Combat: Martial Arts
-Simple Melee Weapons:: 
-Martial Melee Weapons:: 
+Unarmed Combat:: Martial Arts
+Simple Melee Weapons::  Use simple melee weapons such as daggers, short swords, hammers, etc.
+Martial Melee Weapons:: Use melee weapons that require in-depth training such as 
+longswords, halberds, etc.
 Simple Ranged Weapons:: 
 Martial Ranged Weapons:: 
 Otherworldly Summoning:: Summon demons, fiends, etc.
@@ -149,7 +150,7 @@ Necromanic Summoning:: Summon and create dead things.
 Society:: Social knowledge and social abilities.
 Intimidation::
 Investigation::
-Crafting::
+Crafting:: Make and repair things.
 
 
 
